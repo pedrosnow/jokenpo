@@ -1,6 +1,6 @@
 # jokenpo
 
-A new Flutter project.
+Aplicativo feito em estudo para entender a estrutura no Flutter
 
 ## Getting Started
 
